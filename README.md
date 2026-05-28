@@ -11,7 +11,7 @@
 
 ### 🛠️ Full-Stack Developer · UI/UX · Open to Opportunities
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines= Building+real+apps%2C+not+just+tutorials.;React+%2B+Next.js+%2B+TypeScript;Python+%2B+PostgreSQL+%2B+Redis;Ship+first.+Refactor+later+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+real+apps%2C+not+just+tutorials.;React+%2B+Next.js+%2B+TypeScript;Python+%2B+PostgreSQL+%2B+Redis;Ship+first.+Refactor+later+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
